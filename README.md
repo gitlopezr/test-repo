@@ -1,2 +1,4 @@
 # test-repo
-Boston Housing - Courserea Peer graded assignment
+Boston Housing - Coursera Peer-graded assignment
+
+Analysis of Boston Housing Data: Hypothesis Testing, Correlation, and Regression Analysis
